@@ -22,7 +22,7 @@ gallery:
         alttext: Rays of Gold
       - filename: http://upload-images.jianshu.io/upload_images/1271438-c9a2c15f26c9aafe.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
         alttext: Exotic
-      - filename: http://upload-images.jianshu.io/upload_images/1271438-c9a2c15f26c9aafe.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+      - filename: gallery-8.jpg
         alttext: 我是图片标题
 ---
 

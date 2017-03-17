@@ -2,7 +2,7 @@
 author: someone
 layout: post-full
 type: gallery
-featimg: gallery-2.jpg
+featimg: http://upload-images.jianshu.io/upload_images/1271438-c9a2c15f26c9aafe.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 title: Gallery Alternative
 tags: [gallery, image]
 category: [image]

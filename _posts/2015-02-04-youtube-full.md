@@ -1,12 +1,12 @@
 ---
-author: someone
-layout: post-full
-type: youtube
-yt-video-id: E802ZnXbnFY
+author: person
+type: vimeo
+vimeo-embed: <iframe height=498 width=510 src='http://player.youku.com/embed/XMTc0OTI0OTc5Ng==' frameborder=0 'allowfullscreen'></iframe>
+title: Vimeo
 homedisplay: iframe
-title: YouTube full
 tags: [video, iframe]
 category: [video]
+layout: post-full
 ---
 This youtube video uses the iframe instead of the thumbnail image on the index pages.
 

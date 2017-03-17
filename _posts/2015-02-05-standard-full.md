@@ -2,7 +2,7 @@
 author: person
 layout: post-full
 title: Full Width Post
-featimg: 2.jpg
+featimg: http://upload-images.jianshu.io/upload_images/1271438-c9a2c15f26c9aafe.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 tags: [text]
 category: [standard]
 ---

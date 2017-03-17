@@ -46,7 +46,7 @@
                         </div>
                         {% if page.type == "standard" %}
                             {% if page.featimg %}
-                                <img class="featimg" src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/{{ page.featimg }}" alt="{{ page.featimg }}">
+                                <img class="featimg" src="{{ page.featimg }}">
                             {% endif %}
                         {% endif %}
                         <div class="post-content">

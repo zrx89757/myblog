@@ -77,10 +77,10 @@
                     </article>
                     <div class="post-nav">
                         {% if page.previous.url %}
-                        <a class="btn next" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-right"></i><span class="short">下一页</span><span class="long"></span></a>
+                        <a class="btn next" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}"><span class="short">下一页</span><span class="long"></span></a>
                         {% endif %}
                         {% if page.next.url %}
-                        <a class="btn prev" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}"><span class="short">上一页</span><span class="long"></span><i class="fa fa-angle-left"></i></a>
+                        <a class="btn prev" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}"><span class="short">上一页</span><span class="long"></span></a>
                         {% endif %}
                     </div>
                 </div>

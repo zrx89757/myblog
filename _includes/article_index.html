@@ -2,19 +2,6 @@
     this is the complete index for articles, as you can see it on the index page.
     Every Post type get's their own little settings.
 -->
-<style type="text/css">
-
-.view-more{
-    float:right;
-    padding-bottom:10px;
-}
-
-.view-more-hold{
-    padding-top:5px;
-}
-
-</style>
-
 
 <article>
     {% if post.homedisplay == "iframe" %}
@@ -59,7 +46,7 @@
         <h1>{{ post.title }}</h1>
     </a>
     <p class="post-content">{{ post.content | strip_html | truncatewords: 30 }}</p>
-    <p class="actions view-more-hold">
-        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}" class="view-more">查看全文</a>
+    <p class="actions">
+        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}">查看全文</a>
     </p>
 </article>

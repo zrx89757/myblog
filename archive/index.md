@@ -2,5 +2,5 @@
 layout: post-full
 
 ---
-<h3 style="text-align:center;">目录</h3>
+<h4 style="text-align:center;">目录</h4>
 {% include yearly_archive.html %}

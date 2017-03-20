@@ -41,9 +41,11 @@
                         </h2>
                         <div class="meta">
                             {% include author.html%} &bull;
-                            <span class="date">
+                            {% if page.date %}
+                             <span class="date">
                                 Published on {{ page.date | date: '%B %d, %Y' }}
                             </span>
+                            {% endif %}
                         </div>
                         {% if page.type == "standard" %}
                             {% if page.featimg %}

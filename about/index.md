@@ -1,6 +1,6 @@
 ---
 layout: post-full
-
+title: 关于
 ---
 
 

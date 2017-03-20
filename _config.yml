@@ -1,5 +1,5 @@
 full_rebuild: true
-name: Gridster
+name: yeli.photo
 description: the material experience for jekyll
 destination: jekyllbuild
 url: #place url

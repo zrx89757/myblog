@@ -39,6 +39,9 @@
                         <h2 class="post-title">
                             {{ page.title }}
                         </h2>
+                        {% if page.archive-title %}
+                            <h4 style="text-align:center;">{{ archive-title }}</h4>
+                        {% endif %}
                         <div class="meta">
                             {% include author.html%}
                             {% if page.date %}

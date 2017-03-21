@@ -1,6 +1,6 @@
 full_rebuild: true
-name: yeli.photo
-description: the material experience for jekyll
+name: 业力实验室
+description: 此博客主要是收集我的户外游记、摄影摄像作品, 以及编程笔记等内容
 destination: jekyllbuild
 url: #place url
 baseurl: #place folder name if site is served in subfolder

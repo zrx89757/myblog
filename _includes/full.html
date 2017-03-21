@@ -1,9 +1,13 @@
 <!-- full logo version with slogan, icon and text, add the class .ts-full if you want to work with some of the existing CSS -->
-<style type="text/css">
 
-     .title-full{
+  <style type="text/css">
+  .body{
+
+
+  }
+    .title-full{
         margin-right: 20%;
-        margin-left: 30%;
+        margin-left: 35%;
     }
     .icon-img{
         width: 150px;
@@ -22,6 +26,48 @@
     .lab-desc{
         margin: 0px;
     }
+    @media screen and (max-width: 1600px){
+        .title-full{margin-left: 30%;}
+
+    }
+    @media screen and (max-width: 1000px){
+        .title-full{margin-left: 25%}
+
+        .icon-img{width: 110px;height: 110px;}
+        .yeli-lab{font-size: 40px;font-weight: 700;}
+    }
+    @media screen and (max-width: 700px){
+        .lab-desc{display: none;}
+        .icon-img{width: 100px;height: 100px;}
+        .yeli-lab{font-size: 35px;font-weight: 600;}
+
+    }
+    @media screen and (max-width: 520px){
+        .title-full{margin-left: 15%}
+        .yelilab-hold{padding-top: 17px;}
+        .icon-img{width: 90px;height: 90px;}
+        .yeli-lab{font-size: 32px;font-weight: 570;}
+    }
+    @media screen and (max-width: 414px){
+        .title-full{margin-left: 17%}
+        .yelilab-hold{padding-top: 15px;}
+        .icon-img{width: 85px;height: 85px;}
+        .yeli-lab{font-size: 30px;font-weight: 550;}
+
+    }
+    @media screen and (max-width: 375px){
+        .title-full{margin-left: 15%}
+        .yelilab-hold{padding-top: 12px;}
+        .icon-img{width: 75px;height: 75px;}
+        .yeli-lab{font-size: 30px;font-weight: 550;}
+    }
+    @media screen and (max-width: 320px){
+        .title-full{margin-left: 17%}
+        .yelilab-hold{padding-top: 12px;}
+        .icon-img{width: 60px;height: 60px;}
+        .yeli-lab{font-size: 23px;font-weight: 500;}
+    }
+
 
 </style>
 
@@ -31,7 +77,7 @@
         <img src="http://upload-images.jianshu.io/upload_images/1271438-a2a58162684a9b36.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" class="icon-img">
         <div class="yelilab-hold">
             <p class="yeli-lab">业力实验室</p>
-            <p class="lab-desc">Welcome to yeli-lab's blog！My website is publish at:http://yeli.photo</p>
+            <p class="lab-desc">此博客主要是收集我的户外游记、摄影摄像作品, 以及编程笔记等内容</p>
 
         </div>
 </div>

@@ -7,13 +7,12 @@
 <a class="jiathis_button_weixin">微信</a>
 <a class="jiathis_button_douban">豆瓣</a>
 <a class="jiathis_button_cqq">QQ好友</a>
-<p id="summary">{{ post.content | strip_html | truncate: 30 }}</p>
 
 </div>
 <script type="text/javascript" >
 var jiathis_config={
      url:window.location.href,
-     summary:document.getElementById("summary").value,
+     summary:{{ content }},
      title:"{{ page.title }}",
      pic:"http://upload-images.jianshu.io/upload_images/1271438-542ac494fd8dd394.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240/format/jpg",
      ralateuid:{

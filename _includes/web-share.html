@@ -12,8 +12,8 @@
 <script type="text/javascript" >
 
 function get_share_pic(){
-	if ({{ page.featimg }}){
-		return {{ page.featimg }}
+	if ("{{ page.featimg }}"){
+		return "{{ page.featimg }}"
 	}else {
 		return "http://upload-images.jianshu.io/upload_images/1271438-542ac494fd8dd394.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240/format/jpg"
 	}

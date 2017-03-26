@@ -241,6 +241,12 @@ emsp;&emsp;两仪式的背影
 
 &emsp;&emsp;凝视
 
+![](http://upload-images.jianshu.io/upload_images/1271438-6d66973109f3f027.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![](http://upload-images.jianshu.io/upload_images/1271438-5017b75520355017.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+&emsp;&emsp;买菜的妇女——深圳龙华
+
 ![](http://upload-images.jianshu.io/upload_images/1271438-f00aa960dfb9cd38.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![](http://upload-images.jianshu.io/upload_images/1271438-6c72b1274237ce38.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

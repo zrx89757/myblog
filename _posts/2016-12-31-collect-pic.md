@@ -157,7 +157,7 @@ title: 【摄影】收集散落的照片
 
 ![](http://upload-images.jianshu.io/upload_images/1271438-1faa417b7c32e3db.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-emsp;&emsp;两仪式的背影
+&emsp;&emsp;两仪式的背影
 
 ![](http://upload-images.jianshu.io/upload_images/1271438-558fb4a0b80b2690.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

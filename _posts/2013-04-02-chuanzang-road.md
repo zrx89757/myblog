@@ -1,7 +1,6 @@
-
 ---
 author: yeyeli
-title: 记燕子沟外
+title: 骑行川藏
 featimg: http://upload-images.jianshu.io/upload_images/1271438-f793d3097ca83206.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 type: image
 layout: post-full

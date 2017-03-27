@@ -194,12 +194,11 @@ title: 【摄影】收集散落的照片
 
 ![](http://upload-images.jianshu.io/upload_images/1271438-25644079b12447ea.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-&emsp;&emsp;
+&emsp;&emsp;其实我也有我的忧愁...
 
 ![](http://upload-images.jianshu.io/upload_images/1271438-3ffdbe13849d8f43.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 &emsp;&emsp;大学舍友——15年深圳 ，要是有点眼神的表现就更好了。
-
 
 ![](http://upload-images.jianshu.io/upload_images/1271438-51fa8d577a78af2e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

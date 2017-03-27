@@ -3,7 +3,7 @@ author: yeyeli
 layout: post-full
 type: image
 featimg: http://upload-images.jianshu.io/upload_images/1271438-2feea6f76ef1504a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
-title: 【摄影】收集散落的照片
+title: 收集散落的照片
 ---
 
 <audio src="http://link.hhtjim.com/163/29561063.mp3" controls="controls" autoplay="autoplay" loop="loop"></audio>

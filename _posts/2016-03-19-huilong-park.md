@@ -2,7 +2,7 @@
 author: yeyeli
 type: vimeo
 vimeo-embed: <iframe src="http://player.youku.com/embed/XMTUwNTg4OTAwNA==" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-title: 【视频】会龙公园
+title: 会龙公园掠影
 homedisplay:
 featimg: http://upload-images.jianshu.io/upload_images/1271438-35840fe6a0be9ad6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 layout: post-full

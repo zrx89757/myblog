@@ -1,6 +1,6 @@
 ---
 author: yeyeli
-title: 骑行川藏
+title: 流水账之骑行川藏线
 featimg: http://upload-images.jianshu.io/upload_images/1271438-f793d3097ca83206.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 type: image
 layout: post-full
@@ -9,8 +9,7 @@ layout: post-full
 
 * 出发时间: 2013-04-02
 * 出行天数: 24天
-* 人物: 同学
-* 人均费用: 5000RMB
+* 人物: 张宝华、洋葱、雪怪、周永邦、两个老大爷...
 
 &emsp;&emsp;先来几张图放前面韵量哈气氛 , 哈哈 ....
 ![](http://upload-images.jianshu.io/upload_images/1271438-760a582d723a961c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

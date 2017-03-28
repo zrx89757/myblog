@@ -184,7 +184,7 @@ layout: post-full
 &emsp;&emsp;
 
 <div class="video-container video-container-ajustment">
-     <iframe height=498 width=510 src='http://player.youku.com/embed/XMTQ4MjA1OTY1Mg==' frameborder=0 'allowfullscreen'></iframe>
+     <iframe height=498 width=510 src='http://player.youku.com/embed/XMTQ4MjA1OTY1Mg==' frameborder=0 'allowfullscreen'> </iframe>
 </div>
 
 &emsp;&emsp;

@@ -182,6 +182,8 @@ layout: post-full
 &emsp;&emsp; **后记:** 流水账是之前骑车时几乎每天写的一段组成的，而视频是今年过年，把之前拍摄的素材整理在一起串起来的，视频拍的有点少，添加了一些照片在里面。虽然已经过去三年了，但是当这个视频做完之后，自己是看了好多遍的。就像视频结尾写的那样，也许感动不了别人，但是自己的经历总是值得回味的。
 
 
-
+<div class="video-container video-container-ajustment">
+      <iframe src="http://player.youku.com/embed/XMTUwNTg4OTAwNA==" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""> </iframe>
+</div>
 
 &emsp;&emsp;全文完。

@@ -1,23 +1,30 @@
 <!-- full logo version with slogan, icon and text, add the class .ts-full if you want to work with some of the existing CSS -->
 
-
-  <style type="text/css">
-  .body{
+<style type="text/css">
 
 
-  }
     .title-full{
-        margin-right: 20%;
-        margin-left: 35%;
+       display: flex;
+       color: #FF4081;
+    }
+
+    .title-full:hover{
+        cursor:pointer;
+       opacity: 0.8;
+    }
+    .img-hold{
+        flex: 1.4;
+        text-align: right;
     }
     .icon-img{
         width: 150px;
         height: 150px;
-        float: left;
     }
     .yelilab-hold{
-        padding-top: 20px;
+        flex: 2;
+        margin-top: 20px;
     }
+
     .yeli-lab{
         font-style:italic;
         font-size: 50px;
@@ -26,59 +33,65 @@
     }
     .lab-desc{
         margin: 0px;
-        font-size: 14px;
+        font-size: 16px;
     }
-    @media screen and (max-width: 1600px){
-        .title-full{margin-left: 30%;}
 
+    .right-padding{
+        flex: 0.3;
     }
+
     @media screen and (max-width: 1000px){
-        .title-full{margin-left: 25%}
-
+        .img-hold{ flex: 1.3; }
+        .icon-img{width: 125px;height: 125px;}
+        .yelilab-hold{ margin-top: 15px; }
+        .yeli-lab{font-size: 42px;font-weight: 750; margin: 0;}
+        .lab-desc{font-size: 15px;}
+    }
+    @media screen and (max-width: 768px){
         .icon-img{width: 110px;height: 110px;}
-        .yeli-lab{font-size: 40px;font-weight: 700;}
+        .yelilab-hold{ margin-top: 13px; }
+        .yeli-lab{font-size: 38px;font-weight: 650;}
+        .lab-desc{font-size: 14px;}
     }
-    @media screen and (max-width: 750px){
-        .lab-desc{display: none;}
-        .icon-img{width: 100px;height: 100px;}
-        .yeli-lab{font-size: 35px;font-weight: 600;}
 
-    }
     @media screen and (max-width: 540px){
-        .title-full{margin-left: 15%;margin-right: 10%;}
-        .yelilab-hold{padding-top: 17px;}
+        .img-hold{ flex: 1.4;}
         .icon-img{width: 90px;height: 90px;}
-        .yeli-lab{font-size: 32px;font-weight: 570;}
+        .yelilab-hold{ margin-top: 15px; }
+        .yeli-lab{font-size: 35px;font-weight: 570;}
+        .lab-desc{display: none;}
     }
-    @media screen and (max-width: 414px){
-        .title-full{margin-left: 17%}
-        .yelilab-hold{padding-top: 15px;}
-        .icon-img{width: 80px;height: 80px;}
-        .yeli-lab{font-size: 28px;font-weight: 560;}
 
+
+
+    @media screen and (max-width: 414px){
+        .icon-img{width: 80px;height: 80px;}
+        /*.yelilab-hold{ margin-top: 13px; }*/
+        .yeli-lab{font-size: 30px;font-weight: 550;}
     }
+
     @media screen and (max-width: 375px){
-        .title-full{margin-left: 15%;}
-        .yelilab-hold{padding-top: 12px;}
-        .icon-img{width: 75px;height: 75px;}
-        .yeli-lab{font-size: 26px;font-weight: 540;}
+        .icon-img{width: 70px;height: 70px;}
+        .yelilab-hold{ margin-top: 13px; }
+        .yeli-lab{font-size: 26px;font-weight: 520;}
     }
     @media screen and (max-width: 320px){
-        .title-full{margin-left: 17%}
-        .yelilab-hold{padding-top: 12px;}
         .icon-img{width: 60px;height: 60px;}
+        .yelilab-hold{ margin-top: 13px; }
         .yeli-lab{font-size: 23px;font-weight: 500;}
     }
 
-</style>
 
+
+</style>
 
 <div class="title-full">
 
-        <img src="http://upload-images.jianshu.io/upload_images/1271438-a2a58162684a9b36.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" class="icon-img">
+        <div class="img-hold"><img src="http://upload-images.jianshu.io/upload_images/1271438-a2a58162684a9b36.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" class="icon-img"></div>
         <div class="yelilab-hold">
             <p class="yeli-lab">业力实验室</p>
             <p class="lab-desc">此博客主要是收集我的户外游记、摄影摄像作品, 以及编程笔记</p>
 
         </div>
+        <div class="right-padding"></div>
 </div>

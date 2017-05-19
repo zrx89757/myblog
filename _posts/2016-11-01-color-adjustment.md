@@ -86,12 +86,13 @@ layout: post-full
     color:#00ffff;
 }
 .yellow{
-    color:#cccc00;
+    color:#eeee00;
 }
 .magenta{
     color:#ff00ff;
 }
 .hold_view{
+    font-weight: 700;
     text-align:center;
 }
 

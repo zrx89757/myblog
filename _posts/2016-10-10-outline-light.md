@@ -1,7 +1,7 @@
 ---
 author: yeyeli
 title: 摄影中轮廓光的装饰效果
-featimg: http://upload-images.jianshu.io/upload_images/1271438-4ea12705edad92ed.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+featimg: http://upload-images.jianshu.io/upload_images/1271438-9e188f82cf86f33f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 type: image
 layout: post-full
 ---
@@ -57,7 +57,7 @@ layout: post-full
 
 &emsp;&emsp;
 
-![](http://upload-images.jianshu.io/upload_images/1271438-ef4a3e38b1ab89ad.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/1271438-a90fa7f0d04aea7c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 &emsp;&emsp;
 
@@ -65,7 +65,7 @@ layout: post-full
 
 &emsp;&emsp; 下面这张，哇，女模特耶。开个玩笑。下面这张是两盏灯打出来的。同样的一盏放在模特身后照亮头发，另一盏加了透光伞（放在身后的灯相当于一个点光源，是硬光；加了柔光伞的是面光，是柔光。硬光与柔光的区别与运用下次再说——一次说完了，下次都不知说啥了）。这样就形成了一个夹光的效果，挺不错的。
 
-![](http://upload-images.jianshu.io/upload_images/1271438-7bcf845dbe4bb3a5.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/1271438-d6c2767c93d46b7a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 &emsp;&emsp;
 
@@ -73,7 +73,7 @@ layout: post-full
 
 &emsp;&emsp;
 
-![](http://upload-images.jianshu.io/upload_images/1271438-4b7f5907370808ea.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/1271438-cd185a6b17441a42.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 &emsp;&emsp;
 

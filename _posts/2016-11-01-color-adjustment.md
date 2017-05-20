@@ -2,7 +2,7 @@
 author: yeyeli
 title: PS中颜色调整的原理
 featimg: http://upload-images.jianshu.io/upload_images/1271438-19a751b401dee78b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
-
+type: image
 layout: post-full
 ---
 ##### 写在前面
@@ -42,7 +42,7 @@ layout: post-full
 
 ![](http://upload-images.jianshu.io/upload_images/1271438-50498405556c6087.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-&emsp;&emsp;一看到这么多叠加模式不要虚，它们其实是用分割线分了组的，总共也才六组。而且每组里面的模式效果大致是相同的。这里有个官方链接对所有混合模式的说明：<a href="https://helpx.adobe.com/cn/photoshop/using/blending-modes.html" target="_blank">https://helpx.adobe.com/cn/photoshop/using/blending-modes.html</a> 。这里就主要解释哈上面刚刚提到的两种模式：变亮和变暗。
+&emsp;&emsp;一看到这么多叠加模式不要虚，它们其实是用分割线分了组的，总共也才六组。而且每组里面的模式效果大致是相同的。这里有个<a href="https://helpx.adobe.com/cn/photoshop/using/blending-modes.html" target="_blank">官网链接</a> 对所有混合模式的说明。这里就主要解释哈上面刚刚提到的两种模式：变亮和变暗。
 
 &emsp;&emsp;
 
